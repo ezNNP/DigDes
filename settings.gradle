@@ -1,0 +1,5 @@
+rootProject.name = 'DigDes'
+include 'model'
+include 'services'
+include 'persistence'
+include 'bootstrap'
